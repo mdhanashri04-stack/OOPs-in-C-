@@ -48,7 +48,7 @@ public:
 int main() {
 
     // Create an object of Developer class
-    Developer d("Neha", "C++");
+    Developer d("Riya", "Python");
 
     // Call the display function
     d.display();

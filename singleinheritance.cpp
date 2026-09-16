@@ -54,7 +54,7 @@ public:
 int main() {
 
     // Create an object of Student class
-    Student student("Amit", 101);
+    Student student("Rahul", 105);
 
     // Display the student's details
     student.displayStudent();

@@ -52,7 +52,7 @@ public:
 };
 
 int main() {
-    Manager manager("Ravi", 501, 8);
+    Manager manager("Ravi", 501, 12);
 
     manager.showManager();
 
