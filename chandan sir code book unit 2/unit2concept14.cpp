@@ -19,7 +19,7 @@ public:
 };
 
 int main() {
-    University::Department department("Computer Science and Engineering");
+    University::Department department("Artificial Intelligence and Data Science");
     department.display();
 
     return 0;
